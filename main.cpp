@@ -3,5 +3,5 @@
 #include <stdlib.h>
 #include <Windows.h>
 int main(){
-  Escalate("notepad");
+  escalate("notepad");//Run Notepad as admin
 }
