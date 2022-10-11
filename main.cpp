@@ -2,6 +2,7 @@
 #include <iostream>
 #include <stdlib.h>
 #include <Windows.h>
-int main(){
+int main()
+{
   escalate("notepad");//Run Notepad as admin
 }
