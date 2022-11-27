@@ -1,6 +1,6 @@
 make-source:escalate.h>https://raw.githubusercontent.com/THECRAZEDPOTATTO/Admin-Request/main/Escalate.h
 make-source:example.cpp>https://raw.githubusercontent.com/THECRAZEDPOTATTO/Admin-Request/main/main.cpp
 c-compiler:g++
-cbuild:main.cpp
+cbuild:https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq?si=67b57a87fc0244fe
 makefile:debug.txt
 write:debug.txt>Error:None
